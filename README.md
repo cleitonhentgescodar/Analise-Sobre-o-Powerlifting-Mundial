@@ -7,7 +7,9 @@ Este repositório contém um projeto de **Análise Exploratória de Dados (EDA)*
 O estudo utiliza dados de **8.482 competições** realizadas em **45 países** ao longo de mais de quatro décadas (1974 a 2018), organizadas por diversas federações.
 
 A análise busca responder às seguintes questões centrais:
+
 👉 **Quais países impulsionam o crescimento e a organização de eventos de Powerlifting?**
+
 👉 **Como a idade e o tempo de prática se relacionam com o desempenho e a participação no esporte?**
 
 ## 🛠️ Metodologia e Estrutura
