@@ -2,6 +2,8 @@
 
 Este repositório contém um projeto de **Análise Exploratória de Dados (EDA)** focado na modalidade de **Powerlifting** (levantamento básico). O objetivo é investigar a evolução temporal, a distribuição geográfica e a demografia dos atletas, utilizando um extenso *dataset* de competições globais.
 
+# Fonte dados: https://www.kaggle.com/datasets/dansbecker/powerlifting-database
+
 ## 🔍 Contexto do Projeto
 
 O estudo utiliza dados de **8.482 competições** realizadas em **45 países** ao longo de mais de quatro décadas (1974 a 2018), organizadas por diversas federações.
